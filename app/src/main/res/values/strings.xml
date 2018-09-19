@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basketball ScoreKeeper</string>
+    <string name="threePoints">3 Points</string>
+    <string name="twoPoints">2 Points</string>
+    <string name="onePoints">Free Throw</string>
+    <string name="clear">Reset</string>
+</resources>
